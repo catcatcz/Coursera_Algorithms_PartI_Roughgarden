@@ -1,0 +1,3 @@
+the result of this calculation is actually exceeding the integer limit, so I calculate separately the left, right and inter group inversions, and add them up by hand. 
+They are:
+left=600213199  right=631341882  inter=1176350207
